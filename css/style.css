@@ -1,0 +1,18 @@
+#headimg{
+    max-width: 500px;
+    height: auto;
+}
+header{
+    text-align: center;
+}
+#services img{
+    max-width: 200px;
+}
+#services{
+    display: flex;
+    text-align: center;
+    gap: 1.5rem;
+}
+figure{
+    flex: 1;
+}
