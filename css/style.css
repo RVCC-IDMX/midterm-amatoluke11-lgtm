@@ -64,3 +64,21 @@ footer{
     text-align: center;
     color: #F0EBD8;
 }
+@media (max-width: 600px) {
+    #services {
+        flex-direction: column;
+    }
+
+    #parentul {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .rev {
+        width: 100%;
+    }
+
+    #headimg {
+        max-width: 100%;
+    }
+}
